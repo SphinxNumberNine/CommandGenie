@@ -1,0 +1,13 @@
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\bin\x64\Release\OutlookAddInNotifyCmd.dll
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\bin\x64\Release\OutlookAddInNotifyCmd.pdb
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\bin\x64\Release\OutlookAddInNotifyCmd.dll.manifest
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\bin\x64\Release\OutlookAddInNotifyCmd.vsto
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\bin\x64\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\bin\x64\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\bin\x64\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\bin\x64\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\obj\x64\Release\OutlookAddInNotifyCmd.csprojResolveAssemblyReference.cache
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\obj\x64\Release\OutlookAddInNotifyCmd.Properties.Resources.resources
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\obj\x64\Release\OutlookAddInNotifyCmd.csproj.GenerateResource.Cache
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\obj\x64\Release\OutlookAddInNotifyCmd.dll
+C:\hackathon2017\addin\OutlookAddInNotifyCmd\OutlookAddInNotifyCmd\obj\x64\Release\OutlookAddInNotifyCmd.pdb
