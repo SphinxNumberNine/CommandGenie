@@ -1,0 +1,5 @@
+Response for: procdump 825152 c:\temp
+[10:59:28] Dump 1 initiated: c:\temp\notepad.exe_170814_105928.dmp
+[10:59:28] Dump 1 complete: 1 MB written in 0.3 seconds
+[10:59:28] Dump count reached.
+

@@ -1,0 +1,9 @@
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\bin\Debug\ActionBasedEmails.exe.config
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\bin\Debug\ActionBasedEmails.exe
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\bin\Debug\ActionBasedEmails.pdb
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\obj\Debug\ActionBasedEmails.Properties.Resources.resources
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\obj\Debug\ActionBasedEmails.csproj.GenerateResource.Cache
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\obj\Debug\ActionBasedEmails.exe
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\obj\Debug\ActionBasedEmails.pdb
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\obj\Debug\ActionBasedEmails.Form1.resources
+c:\users\akrishnan\documents\visual studio 2013\Projects\ActionBasedEmails\ActionBasedEmails\obj\Debug\ActionBasedEmails.csprojResolveAssemblyReference.cache

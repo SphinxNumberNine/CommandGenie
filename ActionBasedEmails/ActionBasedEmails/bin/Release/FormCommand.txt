@@ -1,0 +1,19 @@
+a.) On Old license generator perform the following test cases
+
+1. Should be able to generate a 9.0 license which has a SKU whose release start is &gt; 9.0
+2. Try generating the same license again now as 11.0 license and generation should fail. 
+
+b.) Take 3 10.0 DB and use the merge script to generate 11.0 cvlicgen. Make Sure CvLicGen doesn't contain partnumber/SKU with core license and release start greater than 20
+
+c) Make sure only the OEM which are currently active are displayed on LG
+Take 3 10.0 DB and use the merge script to generate 11.0 cvlicgen. 
+
+1) Generate a 10.0 license containing VSA Bundle and apply on CS and make sure jobs are running fine and capacity license count is correct.
+
+2) Generate a 11.0 license containing VSA Bundle and apply on CS and make sure jobs are running fine and capacity license count is correct. Core license should not be present in this case.
+
+3) After merging the DB upgrade a 10.0 or older license which contains the SKU/ Pno with core license. Core license should get converted to Enterprise. apply the license on CS & verify licenses are displayed correctly in license admin screen
+QScript -f TM_GetJobOptionEnableBkpFiles.sql
+Customer wants to know schedules/policies which do not have option "Backup Files Protected by System File Protection" set.
+Created a generic qscript that gets list of schedules/policies where this option isnt set
+Generic script to get schedules for job option "Backup Files Protected by System File Protection"
